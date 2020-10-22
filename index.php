@@ -1,3 +1,12 @@
+<?php 
+
+    if(_POST[""]){
+        
+    }
+
+
+?>
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -17,7 +26,7 @@
 
     <div class="container">
         <div class="row">
-            
+          <form action="">  
             <div class="col-sm-4">
                 <div class="row">
                     <div class="col-sm-12">
@@ -89,6 +98,7 @@
             </div>
 
         </div>
+        </form>
     </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
